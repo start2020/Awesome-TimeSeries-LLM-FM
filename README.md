@@ -22,10 +22,11 @@ Feel free to cite this survey if you find it useful to you!
 ## Table of Contents
 
 - [Foundation Model for Time Series](#FM)
-  - 
-
-
-
+- [Large Language Model for Time Series](#LLM)
+  - [General Domain](#gen)
+  - [Traffic](#tra)
+  - [Finance](#fin)
+  - [Healthcare](#hea)
 
 ### (1) Foundation Model for Time Series
 <a id="FM"></a> 
@@ -75,10 +76,10 @@ Feel free to cite this survey if you find it useful to you!
 
 
 ### (2) Large Language Model for Time Series
-
+<a id="LLM"></a> 
 ***
 #### General Domain
-
+<a id="gen"></a> 
 *  [ICLR' 2024] **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models** [[Paper](https://arxiv.org/abs/2310.01728) | [Code](https://github.com/KimMeen/Time-LLM)]
   
   <details close>
@@ -148,7 +149,7 @@ Feel free to cite this survey if you find it useful to you!
 
 ***
 #### Traffic
-
+<a id="tra"></a> 
 *  [arXiv' 2023] **Where Would I Go Next? Large Language Models as Human Mobility Predictors** [[Paper](https://arxiv.org/abs/2308.15197) | [Code](https://github.com/xlwang233/LLM-Mob)]
   
   <details close>
@@ -165,7 +166,7 @@ Feel free to cite this survey if you find it useful to you!
 
 ***
 #### Finance
-
+<a id="fin"></a> 
 *  [arXiv' 2023] **Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting** [[Paper](https://arxiv.org/abs/2306.11025) | [No Code](Link)]
   
   <details close>
@@ -183,6 +184,7 @@ Feel free to cite this survey if you find it useful to you!
 
 ***
 #### Healthcare
+<a id="hea"></a> 
 
 *  [arXiv' 2023] **Large Language Models are Few-Shot Health Learners** [[Paper](https://arxiv.org/abs/2305.15525) | [No Code](Link)]
   
@@ -191,7 +193,7 @@ Feel free to cite this survey if you find it useful to you!
   <p align="center"><img width="75%" src="Figures/LargL.png" /></p>
   </details>
 
-
+***
 ## Contributing
 
 If you have come across relevant resources, feel free to open an issue or submit a pull request.
