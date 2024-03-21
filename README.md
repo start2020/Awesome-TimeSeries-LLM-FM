@@ -36,10 +36,7 @@ Feel free to cite this survey if you find it useful to you!
   <summary>The Model</summary>
   <p align="center"><img width="75%" src="Figures/Towa.png" /></p>
   </details>
-
-  
 *  [arxiv' 2023] **A decoder-only foundation model for time-series forecasting** [[Paper](https://arxiv.org/abs/2310.10688) | [No Code](link)]
-  
   <details close>
   <summary>The Model</summary>
   <p align="center"><img width="75%" src="Figures/Adec.png" /></p>
