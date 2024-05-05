@@ -1,9 +1,36 @@
 <h1 align="center"> Awesome-Time Series-LLM&FM</h2>
 <h5 align="center">AWESOME resources about adapted large language model or foundation model for time series</h5>
 
+
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![GitHub stars](https://img.shields.io/github/stars/start2020/Awesome-TimeSeries-LLM-FM.svg)[![Visits Badge](https://badges.pufler.dev/visits/start2020/Awesome-TimeSeries-LLM-FM)](https://badges.pufler.dev/visits/start2020/Awesome-TimeSeries-LLM-FM)
+
+
+
+> This is a collection of papers on **Time Series Foundation Models** , including **pre-training foundation models from scratch for time series** and **adapting large language foundation models for time series**. They both contribute to the development of a unified model that is highly generalizable, versatile, and comprehensible for time series analysis.  It is based on our survey paper: [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model](). 
+>
+> We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
+
+
+
+## How can Time Series Foundation Models help improve time series tasks?
+
+Traditional time series models are task-specific, featuring singular functionality and limited generalization capacity. Recently, large language foundation models have unveiled their remarkable capabilities for cross-task transferability, zero-shot/few-shot learning, and decision-making explainability. This success has sparked interest in the exploration of foundation models to solve multiple time series challenges simultaneously, including knowledge transferability between different time series domains,  data sparseness in some time series scenarios (e.g. business),  multimodal learning between time sequence and other data modality (e.g. text) and explainability of time series models.
+
+<p align="center"><img src="Figures/background.png" width=75% height=75%></p>
+<p align="center"><em>Figure 1.</em> The background of Time Series Foundation Models.</p>
+
+
+## Summarizations based on proposed taxonomy
+
+<p align="center"><img src="Figures/summarization.png" width=80% height=55%></p>
+<p align="center"><em>Figure 2.</em> The structure of our survey.</p>
+
+<p align="left"> Our review
+is guided by four research questions in Figure 2, covering three analytical dimensions (i.e. effectiveness, efficiency, explainability) and one taxonomy (i.e. domain taxonomy).</p >
+
+
 
 ## Cite Us
 
@@ -16,6 +43,8 @@ Feel free to cite this survey if you find it useful to you!
   year={}
 }
 ```
+
+
 
 
 
@@ -105,7 +134,7 @@ Feel free to cite this survey if you find it useful to you!
     <p align="center"><img width="75%" src="Figures/UniT.png" /></p>
     </details>
 
-  
+
 *  [arXiv' 2023] **LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs** [[Paper](https://arxiv.org/abs/2308.08469) | [No Code](Link)]
   
     <details close>
@@ -113,7 +142,7 @@ Feel free to cite this survey if you find it useful to you!
     <p align="center"><img width="75%" src="Figures/LLM4.png" /></p>
     </details>
 
-  
+
 *  [arXiv' 2023] **The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models** [[Paper](https://arxiv.org/abs/2309.06236) | [No Code](Link)]
   
     <details close>
@@ -171,7 +200,7 @@ Feel free to cite this survey if you find it useful to you!
     <p align="center"><img width="75%" src="Figures/Tempo.png" /></p>
     </details>
 
-  
+
 *  [arXiv' 2023] **The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges** [[Paper](https://arxiv.org/abs/2304.05351) | [No Code](Link)]
   
     <details close>
