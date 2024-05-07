@@ -8,7 +8,7 @@
 
 
 
-> This is a collection of papers on **Time Series Foundation Models** , including **pre-training foundation models from scratch for time series** and **adapting large language foundation models for time series**. They both contribute to the development of a unified model that is highly generalizable, versatile, and comprehensible for time series analysis.  It is based on our survey paper: [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model](). 
+> This is a collection of papers on **Time Series Foundation Models** , including **pre-training foundation models from scratch for time series** and **adapting large language foundation models for time series**. They both contribute to the development of a unified model that is highly generalizable, versatile, and comprehensible for time series analysis.  It is based on our survey paper: [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model](https://arxiv.org/abs/2405.02358). 
 >
 > We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
