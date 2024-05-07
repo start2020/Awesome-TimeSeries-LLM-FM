@@ -36,11 +36,12 @@ is guided by four research questions in Figure 2, covering three analytical dime
 
 Feel free to cite this survey if you find it useful to you!
 ```
-@article{,
-  title={}, 
-  author={},
-  journal={},
-  year={}
+@misc{ye2024survey,
+      title={A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model}, 
+      author={Jiexia Ye and Weiqi Zhang and Ke Yi and Yongzi Yu and Ziyue Li and Jia Li and Fugee Tsung},
+      year={2024},
+      eprint={2405.02358},
+      archivePrefix={arXiv}
 }
 ```
 
