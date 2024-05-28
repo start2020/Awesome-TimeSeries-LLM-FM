@@ -22,7 +22,7 @@ Traditional time series models are task-specific, featuring singular functionali
 <p align="center"><em>Figure 1.</em> The background of Time Series Foundation Models.</p>
 
 
-## Summarizations based on proposed taxonomy
+## Our Proposed Taxonomy
 
 <p align="center"><img src="Figures/summarization.png" width=80% height=55%></p>
 <p align="center"><em>Figure 2.</em> The structure of our survey.</p>
