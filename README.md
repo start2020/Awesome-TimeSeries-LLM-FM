@@ -37,7 +37,7 @@ is guided by four research questions in Figure 2, covering three analytical dime
 Feel free to cite this survey if you find it useful to you!
 ```
 @article{ye2024survey,
-  title={A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Mode},
+  title={A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model},
   author={Ye, Jiexia and Zhang, Weiqi and Yi, Ke and Yu, Yongzi and Li, Ziyue and Li, Jia and Tsung, Fugee},
   journal={arXiv preprint arXiv:2405.02358},
   year={2024}
