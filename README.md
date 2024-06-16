@@ -78,7 +78,7 @@ Feel free to cite this survey if you find it useful to you!
     <p align="center"><img width="75%" src="Figures/Fore.png" /></p>
     </details>
 
-*  [arxiv' 2023] **Lag-Llama: Towards Foundation Models for Time Series Forecasting** [[Paper](https://arxiv.org/abs/2310.08278) | [Code](https://github.com/kashif/pytorch-transformer-ts)]
+*  [arxiv' 2023] **Lag-Llama: Towards Foundation Models for Time Series Forecasting** [[Paper](https://arxiv.org/abs/2310.08278) | [Code](https://github.com/time-series-foundation-models/lag-llama)]
   
     <details close>
     <summary>The Model</summary>
